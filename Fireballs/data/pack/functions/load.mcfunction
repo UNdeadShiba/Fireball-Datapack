@@ -1,0 +1,1 @@
+tellraw @a {"text": "Pack made by UndeadShiba", "color": "#410091"}
